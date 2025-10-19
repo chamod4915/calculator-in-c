@@ -11,5 +11,5 @@ This is a simple calculator program written in C that performs basic arithmetic 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<yourusername>/calculator-in-c.git
+   git clone https://github.com/chamod4915/calculator-in-c.git
    cd calculator-in-c
